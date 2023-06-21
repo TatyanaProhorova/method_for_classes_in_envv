@@ -30,12 +30,6 @@ test('more-then-max-name', () => {
   }).toThrow();
 });
 
-// name.length >= 11
-// test('more-then-max-name', () => {
-//   expect(new Character('Ppppppppppppppppppp', 'Daemon')
-//   ).toThrow();
-// });
-
 // name.length <= 1
 // test('less-then-min-name', () => {
 //   expect(() => {

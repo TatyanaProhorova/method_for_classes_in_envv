@@ -53,12 +53,12 @@ export default class Character {
   }
 }
 
-console.log('******');
-const ch1 = new Character('Python', 'Daemon');
-console.log(ch1);
-const a = ch1.levelUp();
-console.log(a);
-console.log('******');
+// console.log('******');
+// const ch1 = new Character('Python', 'Daemon');
+// console.log(ch1);
+// const a = ch1.levelUp();
+// console.log(a);
+// console.log('******');
 
 // console.log('======');
 // ch1.damage(7);
